@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningLes1SSE", "OefeningLes1SSE\OefeningLes1SSE.csproj", "{2B2037C9-7AAD-4976-8EDD-28487C37062F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2037C9-7AAD-4976-8EDD-28487C37062F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2037C9-7AAD-4976-8EDD-28487C37062F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2037C9-7AAD-4976-8EDD-28487C37062F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2037C9-7AAD-4976-8EDD-28487C37062F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC57B7F2-B801-41AE-8315-069AC723EA6D}
+	EndGlobalSection
+EndGlobal
